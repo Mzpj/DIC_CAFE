@@ -82,7 +82,7 @@ div,li {
 
 .key {
   height: 500px;
-  background: center / cover no-repeat url("../images/sample_key.jpg");
+  background: center / cover no-repeat url("../image/sample_key.jpg");
   font-family: 'Noto Serif JP', serif;
   font-weight: bold;
 }
@@ -114,7 +114,7 @@ div,li {
 
 /*EXERCISE MENU BACKGROUND*/ 
 .menu_section {
-  background: url("../Images/sample_menu_bg.jpg") no-repeat bottom;
+  background: url("../image/sample_menu_bg.jpg") no-repeat bottom;
   opacity: 1;
   background-size: 100%;
   background-attachment: fixed;
